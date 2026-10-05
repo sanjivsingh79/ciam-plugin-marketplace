@@ -1,0 +1,15 @@
+{
+  "name": "ciam-marketplace",
+  "owner": {
+    "name": "CIAM Architecture Team"
+  },
+  "metadata": {
+    "description": "Approved CIAM developer plugins"
+  },
+  "plugins": [
+    {
+      "name": "ciam-test-data",
+      "source": "C:/Users/sanji/claude-ciam-sdlc-plugin"
+    }
+  ]
+}
