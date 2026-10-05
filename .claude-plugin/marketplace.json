@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ciam-test-data",
-      "source": "./../claude-ciam-sdlc-plugin"
+      "source": "./plugins/ciam-test-data"
     }
   ]
 }
